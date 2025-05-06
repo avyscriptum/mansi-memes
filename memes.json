@@ -1,0 +1,26 @@
+[
+    {
+      "filename": "me-and-who.png",
+      "dialect": "sosva",
+      "tags": ["ironic", "absurd", "relatable", "friendship", "conflict"],
+      "level": "A2",
+      "translation": {
+        "sosva": "Ам тувыл хотьют?",
+        "en": "Me and who?",
+        "ru": "Я и кто?",
+        "eo": "Mi kaj kiu?"
+      }
+    },
+    {
+      "filename": "why.png",
+      "dialect": "sosva",
+      "tags": ["absurd", "existential", "visual", "emotion", "modern_life"],
+      "level": "A1",
+      "translation": {
+        "sosva": "Манрыг",
+        "en": "Why",
+        "ru": "Почему",
+        "eo": "Kial"
+      }
+    }
+  ]
