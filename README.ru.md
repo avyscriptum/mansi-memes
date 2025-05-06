@@ -1,7 +1,7 @@
 
 <h1 align="center">Mansi Memes</h1>
 
-**Read in:** [English](https://github.com/avysmorfias/mansi-memes/README.md) | [Esperanto](https://github.com/avysmorfias/mansi-memes/README.eo.md)
+**Read in:** [English](https://github.com/avysmorfias/mansi-memes/blob/main/README.md) | [Esperanto](https://github.com/avysmorfias/mansi-memes/blob/main/README.eo.md)
 
 **Mansi Memes** — это проект по созданию мемов на мансийском языке, одном из исчезающих языков коренных народов Сибири.
 
