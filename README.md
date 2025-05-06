@@ -1,7 +1,7 @@
 
 <h1 align="center">Mansi Memes</h1>
 
-**Read in:** [Русский](https://github.com/avysmorfias/mansi-memes/README.ru.md) | [Esperanto](https://github.com/avysmorfias/mansi-memes/README.eo.md)
+**Read in:** [Русский](https://github.com/avysmorfias/mansi-memes/blob/main/README.ru.md) | [Esperanto](https://github.com/avysmorfias/mansi-memes/blob/main/README.eo.md)
 
 **Mansi Memes** is a project about creating memes in the Mansi language — one of the endangered Indigenous languages of Siberia.
 
