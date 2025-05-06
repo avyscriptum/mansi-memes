@@ -1,7 +1,7 @@
 
 <h1 align="center">Mansi Memes</h1>
 
-**Legu en:** [English](https://github.com/avysmorfias/mansi-memes/README.md) | [Русский](https://github.com/avysmorfias/mansi-memes/README.ru.md)
+**Legu en:** [English](https://github.com/avysmorfias/mansi-memes/blob/main/README.ru.md) | [Русский](https://github.com/avysmorfias/mansi-memes/blob/main/README.md) 
  
 **Mansi Memes** estas projekto por krei memojn en la mansea lingvo — unu el la endanĝeraj indiĝenaj lingvoj de Siberio.
 
