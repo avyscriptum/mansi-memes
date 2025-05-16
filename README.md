@@ -47,11 +47,14 @@ I study scans of old dictionaries and textbooks, write down words into my own vo
 
 ## Data structure
 
-Each meme is described in a [JSON](https://github.com/avysmorfias/mansi-memes/memes.json) format and includes:
-- file name
+Each meme is described in a [JSON](https://github.com/avysmorfias/mansi-memes/blob/main/memes.json) format and includes:
+ - id
+ - phrase
 - dialect
 - language level
-- theme
+- tags
+- image
+	- file name
 - translations into English, Russian, and Esperanto
 
 ## How to support?
