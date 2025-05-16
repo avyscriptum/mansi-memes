@@ -47,12 +47,15 @@ Mi studas skanaĵojn de malnovaj vortaroj kaj lernolibroj, notadas vortojn en mi
 
 ## Datumstrukturo
 
-Ĉiu memo estas priskribita en [JSON](https://github.com/avysmorfias/mansi-memes/memes.json)-formato kaj enhavas:
-- dosiernomo
-- dialekto
-- lingvonivelo
-- temo
-- tradukoj en la anglan, rusan kaj esperanton
+Ĉiu memo estas priskribita en [JSON](https://github.com/avysmorfias/mansi-memes/blob/main/memes.json)-formato kaj enhavas:
+- id
+- phrase
+- dialect
+- language level
+- tags
+- image
+	- file name
+- translations into English, Russian, and Esperanto
 
 ## Kiel helpi?
 
