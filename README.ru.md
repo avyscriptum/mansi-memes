@@ -47,12 +47,15 @@
 
 ## Структура данных
 
-Каждый мем описывается в формате [JSON](https://github.com/avysmorfias/mansi-memes/memes.json) и включает:
-- название файла
-- диалект
--  уровень языка
-- тему
-- перевод на английский, русский и эсперанто
+Каждый мем описывается в формате [JSON](https://github.com/avysmorfias/mansi-memes/blob/main/memes.json) и включает:
+- id
+- phrase
+- dialect
+- language level
+- tags
+- image
+	- file name
+- translations into English, Russian, and Esperanto
 
 ## Как можно помочь?
 
